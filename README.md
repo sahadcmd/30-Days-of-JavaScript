@@ -1,10 +1,9 @@
-<div align="center">
 
-    <img src="./images/banner.webp" alt="JavaScript for Everyone" width="180">
 
-    <h1>30 Days of JavaScript Challenge</h1>
+<img align="center" src="./images/banner.webp" alt="JavaScript for Everyone" width="180">
+
+<h1>30 Days of JavaScript Challenge</h1>
     
-</div>
 
 <br>
 A step by step guide to master JavaScript with bit-sized learning exercises
