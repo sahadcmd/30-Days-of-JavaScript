@@ -1,6 +1,11 @@
-# 30 Days of JavaScript Challenge
-<br>
+<div align="center">
 
+    <img src="./images/banner.webp" alt="30 Days of JavaScript">
+
+    <h1>30 Days of JavaScript Challenge</h1>
+</div>
+
+<br>
 A step by step guide to master JavaScript with bit-sized learning exercises
 <br>
 
