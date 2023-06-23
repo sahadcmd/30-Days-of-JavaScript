@@ -1,3 +1,6 @@
+<div>
+    <img src="../images/banners/day_1_1.png">
+
 # 💻 Day 1: Exercises
 
 1. Write a single line comment which says, _comments can make code readable_
