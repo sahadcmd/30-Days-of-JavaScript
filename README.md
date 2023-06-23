@@ -1,8 +1,9 @@
 <div align="center">
 
-    <img src="./images/banner.webp" alt="30 Days of JavaScript">
+    <img src="./images/banner.webp" alt="JavaScript for Everyone" width="180">
 
     <h1>30 Days of JavaScript Challenge</h1>
+    
 </div>
 
 <br>
