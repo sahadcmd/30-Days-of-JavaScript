@@ -1,5 +1,9 @@
 <div>
     <img src="../images/banners/day_1_1.png">
+</div>
+
+<br>
+<br>
 
 # 💻 Day 1: Exercises
 
